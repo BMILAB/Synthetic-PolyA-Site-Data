@@ -5,7 +5,7 @@ Based on real rice poly(A) site data, we generate synthetic poly(A) site data se
 
 About
 ====================
-The real poly(A) site data set which consists of 14 tissues each with two or three repeated measurements in rice was collected from the [previous study](http://www.genome.org/cgi/doi/10.1101/gr.210757.116). In order to get data sets with a certain number of conditions (tissues, developmental states, etc.) and repeated measurements, we used a two-step process to generate synthetic data that have the same distributions of abundance of poly(A) sites derived from the rice data. See our [paper](http://www.genome.org/cgi/doi/10.1101/gr.210757.116) for details.
+The real poly(A) site data set which consists of 14 tissues each with two or three repeated measurements in rice was collected from the [previous study](http://www.genome.org/cgi/doi/10.1101/gr.210757.116). In order to get data sets with a certain number of conditions (tissues, developmental states, etc.) and repeated measurements, we used a two-step process to generate synthetic data that have the same distributions of abundance of poly(A) sites derived from the rice data. See our [paper][paper] for details.
 
 Files information
 =============
