@@ -19,7 +19,7 @@ This directory contains three files:
 ```
 * **diff_numbers**. The files are consistently namesd following this pattern:
 ```
-<species>_<gene number>_<repli number>.csv
+[<species>_<gene number>_<repli number>.csv][type]
 <species>: The systematic name fo the species. ja = oryza sativa japonica.
 <gene number>: The number of genes contained in this data set.
 <repli number>: The number of replication.
