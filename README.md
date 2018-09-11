@@ -13,19 +13,25 @@ This directory contains three files:
 * diff_replicates
 The files are consistently namesd following this pattern:
 <species>_<gene number>_<repli number>.csv
+```
 <species>: The systematic name fo the species. ja = oryza sativa japonica.
 <gene number>: The number of genes contained in this data set.
 <repli number>: The number of replication.
+```
 * diff_numbers
 The files are consistently namesd following this pattern:
 <species>_<gene number>_<repli number>.csv
+```
 <species>: The systematic name fo the species. ja = oryza sativa japonica.
 <gene number>: The number of genes contained in this data set.
 <repli number>: The number of replication.
+```
 * diff_tissues
 The files are consistently namesd following this pattern:
 <species>_<gene number>_<tissues number>_<id>.csv
+```
 <species>: The systematic name fo the species. ja = oryza sativa japonica.
 <gene number>: The number of genes contained in this data set.
 <tissue number>: The number of types of tissues contained in this data set.
 <id>: Data index number.
+```
